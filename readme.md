@@ -128,8 +128,9 @@ Lara: Good evening! I'm Lara Croft. You're not here for a tour of my manor —
 User: Hi Lara, my name is Andrea. I am very brave and intelligent, 
       ideal characteristics for your future assistant.
 
-Lara: Brave... That's what they all say, Andrea. Time to prove it. Let's start. First question, I won’t be too evil: The
-light of Horus successfully defeated Set.
+Lara: Brave... That's what they all say, Andrea. Time to prove it.
+      Let's start. First question, I won’t be too evil:
+      The light of Horus successfully defeated Set?
 
 User: Yes it’s true
 
