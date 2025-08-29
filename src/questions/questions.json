@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "type": "single_wh_answer",
+    "question": "What is my full name?",
+    "answer": "Lara Amelia Croft",
+    "score": 1
+  },
+  {
+    "id": 2,
+    "type": "true_false",
+    "question": "I was born on Valentine's Day in 1968, is that correct?",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 3,
+    "type": "single_wh_answer",
+    "question": "What is the name of my family estate?",
+    "answer": "Croft Manor",
+    "score": 1
+  },
+  {
+    "id": 4,
+    "type": "true_false",
+    "question": "I attended Wimbledon High School for Girls from age 11 to 16, is this accurate?",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 5,
+    "type": "single_wh_answer",
+    "question": "Which boarding school did I attend from age 16 to 21?",
+    "answer": "Gordonstoun",
+    "score": 2
+  },
+  {
+    "id": 6,
+    "type": "single_wh_answer",
+    "question": "Who was the archaeologist that inspired my interest in archaeology?",
+    "answer": "Werner Von Croy",
+    "score": 2
+  },
+  {
+    "id": 7,
+    "type": "true_false",
+    "question": "My first archaeological expedition was to Egypt with Werner Von Croy, correct?",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 8,
+    "type": "single_wh_answer",
+    "question": "In which country did my first archaeological expedition take place?",
+    "answer": "Cambodia",
+    "score": 2
+  },
+  {
+    "id": 9,
+    "type": "single_wh_answer",
+    "question": "What was the name of the artifact we were searching for in Cambodia?",
+    "answer": "The Iris",
+    "score": 2
+  },
+  {
+    "id": 10,
+    "type": "true_false",
+    "question": "During my Ireland adventure, I stayed with Winston and his wife in Connussie, is this correct?",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 11,
+    "type": "single_wh_answer",
+    "question": "What was the name of the demon that was imprisoned on the Black Isle?",
+    "answer": "Verdilet",
+    "score": 3
+  },
+  {
+    "id": 12,
+    "type": "single_wh_answer",
+    "question": "On what specific date did my Ireland adventure begin?",
+    "answer": "April 23rd 1982",
+    "score": 3
+  },
+  {
+    "id": 13,
+    "type": "true_false",
+    "question": "Werner Von Croy was trapped in the temple collapse and I had to abandon him to escape, is this what happened?",
+    "answer": true,
+    "score": 3
+  },
+  {
+    "id": 14,
+    "type": "single_wh_answer",
+    "question": "What is the name of my father?",
+    "answer": "Lord Henshingly Croft",
+    "score": 2
+  },
+  {
+    "id": 17,
+    "type": "true_false",
+    "question": "I found a backpack from a dead explorer during my Cambodia expedition, correct?",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 18,
+    "type": "single_wh_answer",
+    "question": "At which famous temple complex did my first expedition take place?",
+    "answer": "Angkor Wat",
+    "score": 2
+  },
+  {
+    "id": 19,
+    "type": "true_false",
+    "question": "The demon Verdilet was imprisoned between running water because demons cannot cross running water, is this correct?",
+    "answer": true,
+    "score": 3
+  },
+  {
+    "id": 20,
+    "type": "multiple_answer",
+    "question": "What are some of my most famous adversaries and enemies I've encountered in my adventures?",
+    "answer": ["Natla", "Larson Conway", "Pierre DuPont", "The Cowboy", "Skater Boy", "Bald Man", "Doppelgänger", "Jacqueline Natla"],
+    "score": 3
+  },
+  {
+    "id": 21,
+    "type": "single_wh_answer",
+    "question": "What magazine article sparked my interest in joining Von Croy's expedition?",
+    "answer": "National Geographic",
+    "score": 2
+  },
+  {
+    "id": 22,
+    "type": "true_false",
+    "question": "I challenged Werner Von Croy to a race to claim the Iris, is this accurate?",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 23,
+    "type": "multiple_answer",
+    "question": "What are some of the legendary artifacts I've discovered or sought after?",
+    "answer": ["The Iris", "Scion pieces", "The Dagger of Xian", "Excalibur", "The Hand of Rathmore", "The Philosopher's Stone"],
+    "score": 3
+  },
+  {
+    "id": 24,
+    "type": "single_wh_answer",
+    "question": "Who is my faithful butler at Croft Manor?",
+    "answer": "Winston",
+    "score": 1
+  },
+  {
+    "id": 25,
+    "type": "true_false",
+    "question": "I was raised in a world of privilege and aristocracy, surrounded by servants and high society, correct?",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 26,
+    "type": "multiple_answer",
+    "question": "Can you name some of my famous enemies that I faced?",
+    "answer": ["Natla", "Larson", "Pierre Dupont", "Marco Bartoli", "Fiamma Nera", "Tony", "Puna", "John", "Sophia Leigh", "Mauki", "Werner Von Croy", "Set", "Sergei Mikhailov", "Vladimir Kaleta", "Joachim Karel"],
+    "score": 3
+  },
+  {
+    "id": 27,
+    "type": "single_wh_answer",
+    "question": "What was the name of the village I walked into after surviving two weeks in the Himalayas?",
+    "answer": "Tokakeriby",
+    "score": 3
+  },
+  {
+    "id": 28,
+    "type": "true_false",
+    "question": "My family disowned me after my transformation following the plane crash, is this correct?",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 30,
+    "type": "single_wh_answer",
+    "question": "On what specific date did I attempt to acquire the Philosopher's Stone?",
+    "answer": "July 15th 1989",
+    "score": 3
+  },
+  {
+    "id": 31,
+    "type": "multiple_answer",
+    "question": "Who were my competitors for the Philosopher's Stone in Rome?",
+    "answer": ["Larson", "Pierre"],
+    "score": 2
+  },
+  {
+    "id": 32,
+    "type": "true_false",
+    "question": "I inherited Croft Manor from my parents, correct?",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 33,
+    "type": "single_wh_answer",
+    "question": "From whom did I inherit Croft Manor?",
+    "answer": "An aunt",
+    "score": 2
+  },
+  {
+    "id": 34,
+    "type": "single_wh_answer",
+    "question": "What biblical artifact can be seen displayed in the hall of Croft Manor in 1996?",
+    "answer": "The Ark of the Covenant",
+    "score": 2
+  },
+  {
+    "id": 35,
+    "type": "single_wh_answer",
+    "question": "On what date did I set out to find the Spear of Destiny?",
+    "answer": "February 15th 1995",
+    "score": 3
+  },
+  {
+    "id": 36,
+    "type": "single_wh_answer",
+    "question": "What was the name of the mafia boss who also sought the Spear of Destiny?",
+    "answer": "Sergei Mikhailov",
+    "score": 3
+  },
+  {
+    "id": 37,
+    "type": "single_wh_answer",
+    "question": "Where was the Zapadnaya Litsa port located where I infiltrated to find the Spear?",
+    "answer": "Russia",
+    "score": 3
+  },
+  {
+    "id": 38,
+    "type": "true_false",
+    "question": "I successfully retrieved the Spear of Destiny and brought it back to Croft Manor, correct?",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 39,
+    "type": "single_wh_answer",
+    "question": "In which mountain range did I discover the lost City of Vilcabamba?",
+    "answer": "The Andes",
+    "score": 2
+  },
+  {
+    "id": 40,
+    "type": "single_wh_answer",
+    "question": "What was the name of the giant ruined monastery I explored in Greece?",
+    "answer": "St. Francis Folly",
+    "score": 3
+  },
+  {
+    "id": 41,
+    "type": "single_wh_answer",
+    "question": "Which legendary king's palace did I visit while searching for the Scion in Greece?",
+    "answer": "King Midas",
+    "score": 2
+  },
+  {
+    "id": 43,
+    "type": "true_false",
+    "question": "Natla was one of the three legendary rulers of Atlantis who had been imprisoned for crimes against the kingdom, correct?",
+    "answer": true,
+    "score": 3
+  },
+  {
+    "id": 44,
+    "type": "single_wh_answer",
+    "question": "What was the name of the sunken ship I explored while searching for the Dagger of Xian?",
+    "answer": "Maria Doria",
+    "score": 2
+  },
+  {
+    "id": 45,
+    "type": "single_wh_answer",
+    "question": "What artifact did I claim from the Maria Doria wreck?",
+    "answer": "The Seraph",
+    "score": 2
+  },
+  {
+    "id": 47,
+    "type": "single_wh_answer",
+    "question": "Who was the Fiamma Nera gang boss that used the Dagger of Xian's power?",
+    "answer": "Marco Bartoli",
+    "score": 2
+  },
+  {
+    "id": 48,
+    "type": "single_wh_answer",
+    "question": "What did Marco Bartoli transform into when he used the Dagger of Xian?",
+    "answer": "dragon",
+    "score": 2
+  },
+  {
+    "id": 49,
+    "type": "true_false",
+    "question": "I discovered my love for climbing, water sports, horseback riding and archery while at Gordonstoun, correct?",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 50,
+    "type": "single_wh_answer",
+    "question": "What extreme sport did I start practicing at Swiss Finishing School?",
+    "answer": "Extreme skiing",
+    "score": 1
+  },
+  {
+    "id": 51,
+    "type": "multiple_answer",
+    "question": "What artifacts did I discover before finally finding the Dagger of Xian?",
+    "answer": ["The Seraph", "The Talion"],
+    "score": 3
+  },
+  {
+    "id": 52,
+    "type": "true_false",
+    "question": "I had an encounter with the creature known as Bigfoot before 1996, is this accurate?",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 53,
+    "type": "single_wh_answer",
+    "question": "During which years did I make many important archaeological discoveries including finding the Ark of the Covenant?",
+    "answer": "1991 to 1996",
+    "score": 2
+  },
+  {
+    "id": 54,
+    "type": "true_false",
+    "question": "After defeating the Dragon, I pulled the Dagger out of its heart, causing it to disintegrate to a skeleton, correct?",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 55,
+    "type": "single_wh_answer",
+    "question": "Who was my friend that I contacted to help with the Spear of Destiny mission?",
+    "answer": "Charles Kane",
+    "score": 3
+  },
+  {
+    "id": 56,
+    "type": "true_false",
+    "question": "I traveled to India in 1998 to retrieve the Infada Stone. True or false?",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 57,
+    "type": "single_wh_answer",
+    "question": "What artifact did I retrieve from Tutankhamun’s tomb?",
+    "answer": "Gold Mask",
+    "score": 2
+  },
+  {
+    "id": 58,
+    "type": "true_false",
+    "question": "Dr. Mark Willard helped me defeat the mutant spider form he became.",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 59,
+    "type": "multiple_answer",
+    "question": "Which locations did I travel to in order to find the meteorite artifacts?",
+    "answer": ["India", "South Pacific Islands", "Nevada", "London"],
+    "score": 3
+  },
+  {
+    "id": 60,
+    "type": "single_wh_answer",
+    "question": "Who stole the Amulet of Horus from me and became possessed by Set?",
+    "answer": "Werner Von Croy",
+    "score": 2
+  },
+  {
+    "id": 61,
+    "type": "multiple_answer",
+    "question": "Name the four meteorite artifacts I collected.",
+    "answer": ["Infada Stone", "Ora Dagger", "Element 115", "Eye of Isis"],
+    "score": 3
+  },
+  {
+    "id": 62,
+    "type": "true_false",
+    "question": "The Iris artifact was stored at Von Croy Industries.",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 63,
+    "type": "single_wh_answer",
+    "question": "Where did I track the Hand of Rathmore after learning it had been taken?",
+    "answer": "France",
+    "score": 2
+  },
+  {
+    "id": 64,
+    "type": "multiple_answer",
+    "question": "Which two individuals were directly connected to both the Iris and the Amulet of Horus events?",
+    "answer": ["Zip", "Werner Von Croy"],
+    "score": 3
+  },
+  {
+    "id": 65,
+    "type": "single_wh_answer",
+    "question": "Who did I meet in The Times building before investigating the tunnels near Tutankhamun’s tomb?",
+    "answer": "Peter Stothard",
+    "score": 2
+  },
+  {
+    "id": 66,
+    "type": "true_false",
+    "question": "I accepted ultimate power from Set to save Jean-Yves.",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 67,
+    "type": "multiple_answer",
+    "question": "Who did I confront or fight in pursuit of the meteorite artifacts?",
+    "answer": ["Tony", "Deformed native", "Sophia Leigh", "Dr. Mark Willard"],
+    "score": 3
+  },
+  {
+    "id": 68,
+    "type": "single_wh_answer",
+    "question": "What city did I travel to after escaping Von Croy's tomb in Egypt?",
+    "answer": "Alexandria",
+    "score": 2
+  },
+  {
+    "id": 69,
+    "type": "true_false",
+    "question": "The light of Horus successfully defeated Set.",
+    "answer": false,
+    "score": 2
+  },
+  {
+    "id": 70,
+    "type": "multiple_answer",
+    "question": "What supernatural or mythological beings did I encounter during my adventures?",
+    "answer": ["Shiva statues", "Set", "Horus", "Mutated spider creature"],
+    "score": 3
+  },
+  {
+    "id": 71,
+    "type": "single_wh_answer",
+    "question": "Which artifact did I find during the infiltration of Von Croy Industries?",
+    "answer": "The Iris",
+    "score": 2
+  },
+  {
+    "id": 72,
+    "type": "true_false",
+    "question": "Sophia Leigh was using the Eye of Isis for benevolent purposes.",
+    "answer": false,
+    "score": 1
+  },
+  {
+    "id": 73,
+    "type": "multiple_answer",
+    "question": "Which artifacts were part of the ancient meteorite according to Dr. Willard?",
+    "answer": ["Infada Stone", "Ora Dagger", "Element 115", "Eye of Isis"],
+    "score": 3
+  },
+  {
+    "id": 74,
+    "type": "single_wh_answer",
+    "question": "Where was I when I encountered an actual alien spacecraft?",
+    "answer": "Area 51",
+    "score": 2
+  },
+  {
+    "id": 75,
+    "type": "true_false",
+    "question": "I was officially declared dead after my expedition in Egypt.",
+    "answer": true,
+    "score": 2
+  },
+  {
+    "id": 76,
+    "type": "multiple_answer",
+    "question": "Which people or forces tried to prevent me from retrieving meteorite artifacts?",
+    "answer": ["Tony", "Deformed native", "Sophia Leigh", "Dr. Willard"],
+    "score": 3
+  },
+  {
+    "id": 77,
+    "type": "single_wh_answer",
+    "question": "What did Set try to offer me in exchange for the ancient armor?",
+    "answer": "Ultimate power",
+    "score": 2
+  },
+  {
+    "id": 78,
+    "type": "true_false",
+    "question": "The Ora Dagger was located in the South Pacific Islands.",
+    "answer": true,
+    "score": 1
+  },
+  {
+    "id": 79,
+    "type": "multiple_answer",
+    "question": "In which cities or countries did I have confrontations with Sophia Leigh?",
+    "answer": ["London", "France"],
+    "score": 3
+  },
+  {
+    "id": 80,
+    "type": "single_wh_answer",
+    "question": "What item did I use to seal Set once and for all?",
+    "answer": "Amulet of Horus",
+    "score": 2
+  }
+]
