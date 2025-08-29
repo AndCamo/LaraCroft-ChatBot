@@ -1,6 +1,5 @@
 # 🏛️ Lara Dialogue System
 
-A Natural Language Processing project implementing an AI dialogue system that embodies the character of Lara Croft, designed to conduct job interviews for potential assistants through interactive conversations.
 
 ## 📋 Table of Contents
 
@@ -18,9 +17,9 @@ A Natural Language Processing project implementing an AI dialogue system that em
 - [📊 Evaluation](#-evaluation)
 - [📚 Documentation](#-documentation)
 
-## 🔍 Overview
 
-The Lara Dialogue System is an advanced conversational AI that simulates Lara Croft conducting job interviews to evaluate potential assistants. The system maintains character consistency while handling complex dialogue patterns, question-answering scenarios, and contextual responses.
+## 🔍 Overview
+A Natural Language Processing project implementing a dialogue system that embodies the character of Lara Croft, designed to conduct job interviews for potential assistants through interactive conversations. The Lara Dialogue System is a Dialogue System that simulates Lara Croft conducting job interviews to evaluate potential assistants. The system maintains character consistency while handling simple dialogue patterns, question-answering scenarios, and contextual responses.
 
 ### 🎯 Key Objectives
 
@@ -97,7 +96,7 @@ The system handles three distinct question categories:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lara-dialogue-system.git
+git clone https://github.com/AndCamo/LaraCroft-ChatBot.git
 cd lara-dialogue-system
 
 # Install dependencies
@@ -129,7 +128,12 @@ Lara: Good evening! I'm Lara Croft. You're not here for a tour of my manor —
 User: Hi Lara, my name is Andrea. I am very brave and intelligent, 
       ideal characteristics for your future assistant.
 
-Lara: Brave... That's what they all say, Andrea. Time to prove it. Let's start.
+Lara: Brave... That's what they all say, Andrea. Time to prove it. Let's start. First question, I won’t be too evil: The
+light of Horus successfully defeated Set.
+
+User: Yes it’s true
+
+Lara: Wrong answer, Andrea. Maybe you are not as brave as you think.
 ```
 
 ## 📁 Project Structure
@@ -177,7 +181,4 @@ The report includes:
 
 ---
 
-**👨‍💻 Author**: Andrea Camoia  
-**📚 Course**: Natural Language Technologies (Tecnologie del Linguaggio Naturale)  
-**🏛️ University**: Master's Degree in Computer Science  
-**📅 Year**: 2025
+Made with <3 by Andrea Camoia, 2025
